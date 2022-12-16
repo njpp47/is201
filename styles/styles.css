@@ -1,0 +1,28 @@
+body{
+    background-color: blanchedalmond;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.bold{
+    font-weight: bolder
+}
+li{
+    font-weight: normal;
+}
+.underline{
+    text-decoration: underline;
+}
+.cross{
+    text-decoration: line-through;
+}
+.justify{
+    text-align: justify;
+}
+.common{
+    background-color: antiquewhite;
+    border: black 3px;
+}
+.divpos{
+    border: black;
+    border-radius: 5px;
+}
+
